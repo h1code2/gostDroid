@@ -2,7 +2,7 @@
 
 [README](README.md) | [中文文档](README_zh.md)
 
-gost is a proxy server project that supports http and socks proxy. It was originally developed and open sourced by `ginuerzh`. My goal is to provide Android device support.
+gost is a proxy server project that supports http and socks proxy. It was developed and open sourced by `ginuerzh`. My goal is to provide Android device support.
 
 
 [![API](https://img.shields.io/badge/API-19%2B-green.svg?style=plastic)](https://android-arsenal.com/api?level=19)
