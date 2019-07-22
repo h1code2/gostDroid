@@ -2,7 +2,7 @@
 
 [README](README.md) | [中文文档](README_zh.md)
 
-gost是一个支持http和socks的代理服务器项目，由大神`ginuerzh`开发并开源的项目。我的目的是为gost提供Android版本的支持。
+gost是一个支持http和socks的代理服务器项目，由`ginuerzh`开发并开源的项目。我的目的是为gost提供Android版本的支持。
 
 [![API](https://img.shields.io/badge/API-19%2B-green.svg?style=plastic)](https://android-arsenal.com/api?level=19)
 [![license](https://img.shields.io/github/license/switch-iot/hin2n.svg?style=plastic)](https://www.gnu.org/licenses/gpl-3.0)
