@@ -16,6 +16,7 @@ gost是一个支持http和socks的代理服务器项目，由`ginuerzh`开发并
 
 ### gostDroid使用方法
 具体使用方法请查看上游说明 https://github.com/ginuerzh/gost
+
 特别注意的是，应用在后台运行可能会被安卓电量管理终止掉，因此，如果要后台运行，请将其添加进白名单。
 
 ### gostDroid 最新版本
